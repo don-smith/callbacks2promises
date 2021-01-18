@@ -25,4 +25,5 @@
 
 * `1-no-functions.js`: an implementation of the demo without using any named functions. This is an illustration of [callback hell](http://callbackhell.com).
 * `2-better-callbacks.js`: an implementation that uses named functions to mitigate callback hell.
-* `3-promises.js`: an implementation that uses promises.
+* `3-promises.js`: an implementation that uses Promises.
+* `4-async-await.js`: an implementation that uses the `async`/`await` syntax.
